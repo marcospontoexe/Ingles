@@ -25,6 +25,7 @@ Em resumo, o pronome serve para **substituir ou acompanhar o nome (substantivo)*
 ## 1. Pronomes pessoais (Personal Pronouns)
 
 São os mais importantes para começar.
+Observe que os pronomes pessoais geralmente desempenham a função de **sujeito**, visto mais adiante neste material.
 
 | Português                    | Inglês   |
 | ---------------------------- | -------- |
@@ -43,52 +44,100 @@ Exemplos:
 * **She** is my friend. (Ela é minha amiga.)
 * **They** are engineers. (Eles são engenheiros.)
 
----
+### Sujeito
+O **sujeito** é a pessoa, animal, objeto ou ideia **sobre a qual a oração fala**. Em geral, é quem pratica a ação do verbo ou de quem se diz alguma coisa.
 
-## 2. Pronomes possessivos (Possessive Pronouns)
+#### Exemplos
 
-Substituem um substantivo indicando posse.
+* **Marcos** estuda inglês.
 
-| Português | Inglês     |
-| --------- | ---------- |
-| O meu     | **Mine**   |
-| O seu     | **Yours**  |
-| O dele    | **His**    |
-| O dela    | **Hers**   |
-| Ele/Ela (objetos ou animais)    | **Its**   |
-| O nosso   | **Ours**   |
-| O deles   | **Theirs** |
+  * Quem estuda? **Marcos**.
+  * **Sujeito:** Marcos
+
+* **O cachorro** latiu.
+
+  * Quem latiu? **O cachorro**.
+  * **Sujeito:** O cachorro
+
+* **A chuva** começou cedo.
+
+  * O que começou? **A chuva**.
+  * **Sujeito:** A chuva
+
+#### Sujeito x Verbo
+
+Toda oração normalmente tem um sujeito e um verbo.
+
+| Sujeito | Verbo    | Complemento    |
+| ------- | -------- | -------------- |
+| Maria   | comprou  | um carro.      |
+| João    | corre    | todos os dias. |
+| Eles    | viajaram | ontem.         |
+
+
+#### No inglês
+
+O conceito é exatamente o mesmo.
+
+| Sujeito  | Verbo | Complemento |
+| -------- | ----- | ----------- |
+| **I**    | study | English.    |
+| **She**  | works | here.       |
+| **They** | live  | in Brazil.  |
+
+Observe que os **pronomes pessoais** geralmente desempenham a função de sujeito:
+
+* **I** am a student.
+* **You** are my friend.
+* **He** is a doctor.
+* **She** likes music.
+* **It** is raining.
+* **We** play soccer.
+* **They** work together.
+
+#### Como identificar o sujeito?
+
+Uma forma simples é fazer a pergunta **"quem?"** ou **"o que?"** antes do verbo.
 
 Exemplos:
 
-* This book is **mine**.
-* The house is **theirs**.
+* **Pedro** comprou um computador.
+
+  * Quem comprou? **Pedro**.
+
+* **Os alunos** fizeram a prova.
+
+  * Quem fez a prova? **Os alunos**.
+
+* **O gato** dormiu no sofá.
+
+  * Quem dormiu? **O gato**.
+
+#### Diferença entre sujeito e pronome
+
+O sujeito é uma **função** na frase; o pronome é uma **classe de palavras**.
+
+Por exemplo:
+
+* **Marcos** estuda inglês.
+
+  * Sujeito: **Marcos** (substantivo)
+
+* **Ele** estuda inglês.
+
+  * Sujeito: **Ele** (pronome)
+
+Nas duas frases, o sujeito é quem pratica a ação de estudar. A diferença é que, na primeira, o sujeito é um substantivo ("Marcos") e, na segunda, é um pronome ("Ele") que substitui esse substantivo.
+
+**Resumo:**
+
+* **Sujeito** = quem pratica a ação ou sobre quem se fala.
+* **Verbo** = a ação ou estado.
+* **Pronome** = palavra que pode substituir o sujeito (ou outro substantivo) para evitar repetições.
 
 ---
 
-## 3. Pronomes objeto (Object Pronouns)
-
-São usados quando recebem a ação do verbo.
-
-| Pronome sujeito | Pronome objeto |
-| --------------- | -------------- |
-| I               | **Me**         |
-| You             | **You**        |
-| He              | **Him**        |
-| She             | **Her**        |
-| It              | **It**         |
-| We              | **Us**         |
-| They            | **Them**       |
-
-Exemplos:
-
-* She called **me**.
-* I saw **him**.
-* They invited **us**.
-
----
-
-## 4. Adjetivos possessivos (Possessive Adjectives)
+## 2. Adjetivos possessivos (Possessive Adjectives)
 
 Apesar do nome, muitos livros os apresentam junto com os pronomes.
 
@@ -107,6 +156,97 @@ Exemplos:
 * **My** car.
 * **Your** computer.
 * **Their** house.
+
+Esses **nunca ficam sozinhos**. Eles sempre vêm **antes de um substantivo**.
+
+* **My** car
+* **Your** house
+* **Their** dog
+* **Our** company
+
+Exemplos:
+
+* **My** car is new.
+* **Their** house is beautiful.
+
+---
+
+## 3. Pronomes possessivos (Possessive Pronouns)
+
+Substituem um substantivo indicando posse.
+
+| Português | Inglês     |
+| --------- | ---------- |
+| O meu     | **Mine**   |
+| O seu     | **Yours**  |
+| O dele    | **His**    |
+| O dela    | **Hers**   |
+| Ele/Ela (objetos ou animais)    | **Its**   |
+| O nosso   | **Ours**   |
+| O deles   | **Theirs** |
+
+Exemplos:
+
+* This book is **mine**.
+* The house is **theirs**.
+
+Eles substituem um substantivo e podem aparecer em diferentes posições.
+
+### No final (muito comum)
+
+* This book is **mine**.
+* That car is **hers**.
+* The house is **theirs**.
+
+### No meio da frase
+
+* **Mine** is blue.
+* **Yours** looks better than mine.
+* His is the largest.
+
+---
+
+## 4. Pronomes objeto (Object Pronouns)
+
+São usados quando recebem a ação do verbo.
+
+| Pronome sujeito | Pronome objeto |
+| --------------- | -------------- |
+| I               | **Me**         |
+| You             | **You**        |
+| He              | **Him**        |
+| She             | **Her**        |
+| It (objetos ou animais)      | **It**         |
+| We              | **Us**         |
+| They            | **Them**       |
+
+Exemplos:
+
+* She called **me**.
+* I saw **him**.
+* They invited **us**.
+
+Eles **normalmente vêm depois do verbo** ou depois de uma preposição, porque recebem a ação.
+
+### Depois do verbo
+
+* She loves **him**.
+* I called **you**.
+* They invited **us**.
+
+### Depois de uma preposição
+
+* This gift is for **her**.
+* Come with **me**.
+* I talked to **them**.
+
+Perceba que eles aparecem **depois do verbo ou da preposição**, mas **não necessariamente no final**.
+
+Exemplos:
+
+* I saw **him yesterday**.
+* She gave **me a book**.
+* They told **us the truth**.
 
 ---
 
@@ -180,9 +320,9 @@ Exemplos:
 
 ---
 
-### Os pronomes que você mais usará no dia a dia
+## Os pronomes que você mais usará no dia a dia
 
-Se você está começando no inglês, memorize primeiro estes:
+Se você está começando no inglês, memorize (aprenda) primeiro estes:
 
 * **I** (eu)
 * **You** (você)
@@ -194,14 +334,14 @@ Se você está começando no inglês, memorize primeiro estes:
 
 Depois aprenda suas formas de objeto e posse:
 
-| Sujeito | Objeto | Possessivo (adjetivo) | Possessivo (pronome) |
-| ------- | ------ | --------------------- | -------------------- |
-| I       | Me     | My                    | Mine                 |
-| You     | You    | Your                  | Yours                |
-| He      | Him    | His                   | His                  |
-| She     | Her    | Her                   | Hers                 |
-| It      | It     | Its                   | —                    |
-| We      | Us     | Our                   | Ours                 |
-| They    | Them   | Their                 | Theirs               |
+ Sujeito         |Possessivo (adjetivo)| Possessivo (pronome) | Objeto 
+:----------------|--------------------:|:---------------------|:------:
+ I    (eu)       | My    (meu)         | Mine   (meu)         | Me   (meu)    
+ You  (você)     | Your  (seu)         | Yours  (seu)         | You  (seu)  
+ He   (ele)      | His   (dele)        | His    (dele)        | Him  (dele)  
+ She  (ela)      | Her   (dela)        | Hers   (dela)        |  Her (dela)    
+ It   (isto)     | Its   (dele/dela)   | Its    (dele/dela)   |  It  (dele/dela) 
+ We   (nós)      | Our   (nósso)       | Ours   (nósso)       |  Us  (nósso) 
+ You  (vocês)    | Your  (seus)        | Yours  (seus)        | You  (seus) 
+ They (eles/elas)| Their (deles)       | Theirs (deles)       | Them (deles)
 
-Essa tabela reúne cerca de **90% dos pronomes usados em conversas cotidianas em inglês**. Dominar essas formas já permite compreender e formar uma grande variedade de frases.
