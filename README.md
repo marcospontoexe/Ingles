@@ -34,6 +34,61 @@ Esse modelo é uma boa base tanto para entender a gramática do português quant
 
 > **She** *(sujeito)* **studies** *(verbo)* **English** *(objeto).*
 
+### Substantivo
+
+Dá nome às pessoas, objetos, lugares, etc.
+
+* João corre.
+* O carro é novo.
+
+Substantivos:
+
+* João
+* carro
+
+### Pronome
+
+Substitui ou acompanha um substantivo.
+
+* **Ele** corre.
+* **Ela** comprou um carro.
+
+Pronomes:
+
+* Ele
+* Ela
+
+### Adjetivo
+
+Caracteriza um substantivo.
+
+* carro **novo**
+* menina **inteligente**
+* casa **grande**
+
+#### Exemplo completo
+
+Frase:
+
+> A menina inteligente comprou um computador novo.
+
+| Palavra     | Classe      |
+| ----------- | ----------- |
+| A           | artigo      |
+| menina      | substantivo |
+| inteligente | adjetivo    |
+| comprou     | verbo       |
+| um          | artigo      |
+| computador  | substantivo |
+| novo        | adjetivo    |
+
+Funções sintáticas:
+
+| Função        | Elemento             |
+| ------------- | -------------------- |
+| Sujeito       | A menina inteligente |
+| Verbo         | comprou              |
+| Objeto direto | um computador novo   |
 
 # Pronomes
 Pronome é a palavra que **substitui ou acompanha um substantivo**, evitando repetições e indicando pessoas, objetos, lugares ou ideias.
