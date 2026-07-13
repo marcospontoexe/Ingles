@@ -90,6 +90,94 @@ Funções sintáticas:
 | Verbo         | comprou              |
 | Objeto direto | um computador novo   |
 
+# Artigo 
+O **artigo** é outra classe de palavras, diferente de pronome, substantivo e verbo.
+
+## O que é um artigo?
+
+O **artigo** é a palavra que acompanha um substantivo para indicar se ele é definido ou indefinido.
+
+### Em português
+
+Artigos definidos:
+
+* o
+* a
+* os
+* as
+
+Artigos indefinidos:
+
+* um
+* uma
+* uns
+* umas
+
+Exemplos:
+
+* **O** carro.
+* **A** casa.
+* **Um** livro.
+* **Uma** cadeira.
+
+---
+
+## Em inglês
+
+Existem apenas **três artigos**.
+
+### Artigo definido
+
+| Artigo  | Significado  |
+| ------- | ------------ |
+| **The** | o, a, os, as |
+
+Exemplos:
+
+* **The** car.
+* **The** book.
+* **The** students.
+
+---
+
+### Artigos indefinidos
+
+| Artigo | Significado |
+| ------ | ----------- |
+| **A**  | um, uma     |
+| **An** | um, uma     |
+
+A diferença entre **a** e **an** não é de significado, mas de **pronúncia**.
+
+**A** → antes de som de consoante.
+
+* a car
+* a book
+* a university (som de "yu")
+
+**An** → antes de som de vogal.
+
+* an apple
+* an orange
+* an engineer
+* an hour (o "h" é mudo)
+
+---
+
+## Onde o artigo fica?
+
+O artigo vem **antes do substantivo**.
+
+Estrutura:
+
+> **Artigo + Substantivo**
+
+Exemplos:
+
+* the car
+* a computer
+* an engineer
+
 # Pronomes
 Pronome é a palavra que **substitui ou acompanha um substantivo**, evitando repetições e indicando pessoas, objetos, lugares ou ideias.
 
