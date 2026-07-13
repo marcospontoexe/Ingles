@@ -1,3 +1,40 @@
+# Oração
+
+**Oração** é um conjunto de palavras que **obrigatoriamente possui um verbo** (ou uma locução verbal).
+
+Exemplos:
+
+* João **estuda** inglês.
+* Maria **está trabalhando**.
+* Eles **chegaram** cedo.
+
+Observe que todas têm pelo menos um verbo.
+                                        
+## Estrutura mais comum de uma oração
+
+Embora existam exceções, uma oração frequentemente segue este padrão:
+
+```
+[Sujeito] → [Verbo] → [Objeto/Complemento]
+      ↑
+  formado por substantivos ou pronomes,
+  podendo incluir artigos e adjetivos.
+```
+
+Exemplo:
+
+> **O** **aluno** **dedicado** **estuda** **inglês** **todos os dias**.
+
+* **Sujeito:** O aluno dedicado
+* **Verbo:** estuda
+* **Objeto:** inglês
+* **Adjunto adverbial (tempo):** todos os dias
+
+Esse modelo é uma boa base tanto para entender a gramática do português quanto a do inglês, já que a maioria das frases simples em inglês também segue a ordem **Sujeito + Verbo + Objeto (SVO)**:
+
+> **She** *(sujeito)* **studies** *(verbo)* **English** *(objeto).*
+
+
 # Pronomes
 Pronome é a palavra que **substitui ou acompanha um substantivo**, evitando repetições e indicando pessoas, objetos, lugares ou ideias.
 
@@ -345,3 +382,81 @@ Depois aprenda suas formas de objeto e posse:
  You  (vocês)    | Your  (seus)        | Yours  (seus)        | You  (seus) 
  They (eles/elas)| Their (deles)       | Theirs (deles)       | Them (deles)
 
+# Título de tratamento
+Em inglês, **titles** ou **honorifics**. Eles são colocados **antes do nome ou sobrenome** de uma pessoa para demonstrar respeito ou indicar como ela deve ser tratada.
+Eles não fazem parte das classes tradicionais como:
+
+* substantivo
+* pronome
+* verbo
+* adjetivo
+
+## Os principais títulos
+
+| Título   | Significado   | Usado para                                  |
+| -------- | ------------- | ------------------------------------------- |
+| **Mr.**  | Senhor        | Homens adultos                              |
+| **Mrs.** | Senhora       | Mulheres casadas                            |
+| **Miss** | Senhorita     | Mulheres solteiras (mais comum para jovens) |
+| **Ms.**  | Senhora/Srta. | Mulheres, sem indicar estado civil          |
+
+## Exemplos
+
+* **Mr. Smith** is my teacher.
+* **Mrs. Johnson** works here.
+* **Miss Brown** is our new manager.
+* **Ms. Davis** will call you tomorrow.
+
+## Onde eles ficam na frase?
+
+Eles aparecem **antes do nome**.
+
+Estrutura:
+
+> **Título + Nome**
+
+Exemplos:
+
+* **Mr. John**
+* **Mrs. Taylor**
+* **Miss Emma**
+* **Ms. Wilson**
+
+Na frase:
+
+> **Mr. Smith** is a doctor.
+
+* Sujeito: **Mr. Smith**
+* Verbo: **is**
+* Complemento: **a doctor**
+
+## Como substituir por um pronome?
+
+Depois que você apresentou a pessoa pelo nome, normalmente passa a usar um pronome.
+
+Exemplo:
+
+> **Mr. Smith** is my teacher.
+>
+> **He** teaches English.
+
+Ou:
+
+> **Mrs. Johnson** is very kind.
+>
+> **She** works at the hospital.
+
+---
+
+### Resumo
+
+| Título   | Português        | Estado civil                                                |
+| -------- | ---------------- | ----------------------------------------------------------- |
+| **Mr.**  | Senhor           | Homem (independente do estado civil)                        |
+| **Mrs.** | Senhora          | Mulher casada                                               |
+| **Miss** | Senhorita        | Mulher solteira (especialmente jovem)                       |
+| **Ms.**  | Senhora (neutro) | Mulher, sem informar ou sem dar importância ao estado civil |
+
+### Dica importante
+
+Hoje em dia, **Ms.** é o tratamento mais usado em contextos profissionais quando você não sabe ou não quer presumir o estado civil de uma mulher. Já **Miss** é mais comum para meninas ou jovens, e **Mrs.** costuma ser usado quando a própria mulher prefere esse tratamento.
