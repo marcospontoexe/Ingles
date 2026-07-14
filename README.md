@@ -1,3 +1,166 @@
+# The Alphabet
+Abaixo está uma tabela com o **nome (som) de cada letra do alfabeto em inglês**, usando uma aproximação da pronúncia para o português e uma representação em IPA (Alfabeto Fonético Internacional).
+
+| Letra |    Nome em inglês    | Aproximação em português |          IPA         |
+| :---: | :------------------: | :----------------------: | :------------------: |
+|   A   |           A          |            ei            |         /eɪ/         |
+|   B   |          Bee         |            bi            |         /biː/        |
+|   C   |          Cee         |            si            |         /siː/        |
+|   D   |          Dee         |            di            |         /diː/        |
+|   E   |           E          |             i            |         /iː/         |
+|   F   |          Ef          |            éf            |         /ef/         |
+|   G   |          Gee         |            dji           |        /dʒiː/        |
+|   H   |         Aitch        |           êitch          |        /eɪtʃ/        |
+|   I   |           I          |            ai            |         /aɪ/         |
+|   J   |          Jay         |           djei           |        /dʒeɪ/        |
+|   K   |          Kay         |            kei           |         /keɪ/        |
+|   L   |          El          |            él            |         /el/         |
+|   M   |          Em          |            ém            |         /em/         |
+|   N   |          En          |            én            |         /en/         |
+|   O   |           O          |            ou            | /oʊ/ (EUA) /əʊ/ (RU) |
+|   P   |          Pee         |            pi            |         /piː/        |
+|   Q   |          Cue         |            kiu           |        /kjuː/        |
+|   R   |          Ar          |            ar            |      /ɑːr/ (EUA)     |
+|   S   |          Ess         |            és            |         /es/         |
+|   T   |          Tee         |            ti            |         /tiː/        |
+|   U   |           U          |            iu            |         /juː/        |
+|   V   |          Vee         |            vi            |         /viː/        |
+|   W   |       Double U       |         dâbol iu         |     /ˈdʌbəl juː/     |
+|   X   |          Ex          |            éks           |         /eks/        |
+|   Y   |          Why         |            uai           |         /waɪ/        |
+|   Z   | Zee (EUA) / Zed (RU) |         zi / zéd         |    /ziː/ ou /zed/    |
+
+# Numbers
+Abaixo está uma tabela com os **numerais em inglês**, incluindo a escrita, uma aproximação da pronúncia em português e o IPA.
+
+## Números de 0 a 20
+
+| Número | Inglês    | Aproximação da pronúncia |      IPA      |
+| :----: | --------- | ------------------------ | :-----------: |
+|    0   | Zero      | zírou                    |    /ˈzɪroʊ/   |
+|    1   | One       | uãn                      |     /wʌn/     |
+|    2   | Two       | tu                       |     /tuː/     |
+|    3   | Three     | thri                     |     /θriː/    |
+|    4   | Four      | fór                      |     /fɔːr/    |
+|    5   | Five      | faiv                     |     /faɪv/    |
+|    6   | Six       | siks                     |     /sɪks/    |
+|    7   | Seven     | séven                    |    /ˈsevən/   |
+|    8   | Eight     | eit                      |     /eɪt/     |
+|    9   | Nine      | nain                     |     /naɪn/    |
+|   10   | Ten       | ten                      |     /ten/     |
+|   11   | Eleven    | iléven                   |   /ɪˈlevən/   |
+|   12   | Twelve    | tuélv                    |    /twelv/    |
+|   13   | Thirteen  | thârtín                  |  /ˌθɜːrˈtiːn/ |
+|   14   | Fourteen  | fortín                   |  /ˌfɔːrˈtiːn/ |
+|   15   | Fifteen   | fiftín                   |  /ˌfɪfˈtiːn/  |
+|   16   | Sixteen   | sikstín                  |  /ˌsɪksˈtiːn/ |
+|   17   | Seventeen | seventín                 | /ˌsevənˈtiːn/ |
+|   18   | Eighteen  | eitín                    |   /ˌeɪˈtiːn/  |
+|   19   | Nineteen  | naintín                  |  /ˌnaɪnˈtiːn/ |
+|   20   | Twenty    | tuénti                   |   /ˈtwenti/   |
+
+---
+
+## Dezenas
+
+| Número | Inglês      | Aproximação |       IPA      |
+| :----: | ----------- | ----------- | :------------: |
+|   20   | Twenty      | tuénti      |    /ˈtwenti/   |
+|   30   | Thirty      | thârti      |    /ˈθɜːrti/   |
+|   40   | Forty       | fórti       |    /ˈfɔːrti/   |
+|   50   | Fifty       | fifti       |    /ˈfɪfti/    |
+|   60   | Sixty       | siksti      |    /ˈsɪksti/   |
+|   70   | Seventy     | séventi     |   /ˈsevənti/   |
+|   80   | Eighty      | êiti        |     /ˈeɪti/    |
+|   90   | Ninety      | náinti      |    /ˈnaɪnti/   |
+|   100  | One hundred | uãn rândrid | /wʌn ˈhʌndrəd/ |
+
+---
+
+## Como formar os números
+
+Basta combinar a dezena com a unidade.
+
+| Número | Inglês       |
+| :----: | ------------ |
+|   21   | Twenty-one   |
+|   22   | Twenty-two   |
+|   25   | Twenty-five  |
+|   31   | Thirty-one   |
+|   42   | Forty-two    |
+|   58   | Fifty-eight  |
+|   67   | Sixty-seven  |
+|   79   | Seventy-nine |
+|   84   | Eighty-four  |
+|   99   | Ninety-nine  |
+
+---
+
+## Centenas
+
+| Número | Inglês        |
+| :----: | ------------- |
+|   100  | One hundred   |
+|   200  | Two hundred   |
+|   300  | Three hundred |
+|   400  | Four hundred  |
+|   500  | Five hundred  |
+|   600  | Six hundred   |
+|   700  | Seven hundred |
+|   800  | Eight hundred |
+|   900  | Nine hundred  |
+
+Exemplos:
+
+* 125 → **One hundred and twenty-five** (britânico) / **One hundred twenty-five** (americano)
+* 348 → **Three hundred forty-eight**
+* 999 → **Nine hundred ninety-nine**
+
+---
+
+## Milhares
+
+|     Número    | Inglês               |
+| :-----------: | -------------------- |
+|     1.000     | One thousand         |
+|     2.000     | Two thousand         |
+|     10.000    | Ten thousand         |
+|    100.000    | One hundred thousand |
+|   1.000.000   | One million          |
+| 1.000.000.000 | One billion          |
+
+---
+
+## Dicas importantes
+
+### 1. Cuidado com **13 × 30**, **14 × 40**, etc.
+
+| Número | Pronúncia    |
+| ------ | ------------ |
+| 13     | thir**TEEN** |
+| 30     | **THIR**ty   |
+| 14     | four**TEEN** |
+| 40     | **FOR**ty    |
+| 15     | fif**TEEN**  |
+| 50     | **FIF**ty    |
+
+A diferença principal está na sílaba tônica:
+
+* **-teen** (13–19): a tonicidade fica no final.
+* **-ty** (20, 30, 40...): a tonicidade fica no início.
+
+### 2. Números compostos
+
+Entre a dezena e a unidade, usa-se um hífen:
+
+* Twenty-one
+* Thirty-five
+* Forty-eight
+* Ninety-nine
+
+Essa forma é a escrita correta em inglês.
+
+
 # Oração
 
 **Oração** é um conjunto de palavras que **obrigatoriamente possui um verbo** (ou uma locução verbal).
