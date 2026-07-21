@@ -160,6 +160,61 @@ Entre a dezena e a unidade, usa-se um hífen:
 
 Essa forma é a escrita correta em inglês.
 
+## Faixas etárias
+
+| Português     | Inglês                  | Pronúncia aproximada |
+| ------------- | ----------------------- | -------------------- |
+| Bebê          | Baby                    | bêibi                |
+| Recém-nascido | Newborn                 | niúbórn              |
+| Criança       | Child                   | tchaild              |
+| Crianças      | Children                | tchildrên            |
+| Menino        | Boy                     | bói                  |
+| Menina        | Girl                    | gârl                 |
+| Adolescente   | Teenager                | tínêidjer            |
+| Jovem         | Young person / Youth    | iâng pârson / iúth   |
+| Adulto        | Adult                   | adâlt (EUA)          |
+| Idoso         | Elderly person / Senior | élderli / sínior     |
+
+---
+
+### Como dizer "na casa dos..."
+
+Em inglês, também existem palavras específicas para as décadas de idade:
+
+| Idade | Inglês    |
+| ----- | --------- |
+| 20–29 | Twenties  |
+| 30–39 | Thirties  |
+| 40–49 | Forties   |
+| 50–59 | Fifties   |
+| 60–69 | Sixties   |
+| 70–79 | Seventies |
+| 80–89 | Eighties  |
+| 90–99 | Nineties  |
+
+Exemplos:
+
+* She is **in her twenties**. *(Ela está na casa dos 20 anos.)*
+* My father is **in his fifties**. *(Meu pai está na casa dos 50 anos.)*
+* They are **in their seventies**. *(Eles estão na casa dos 70 anos.)*
+
+---
+
+### Resumo
+
+| Faixa | Termo em inglês   |
+| ----- | ----------------- |
+| 0–2   | Baby              |
+| 3–12  | Child             |
+| 13–19 | Teenager          |
+| 20–39 | Young adult       |
+| 40–59 | Middle-aged adult |
+| 60+   | Senior / Elderly  |
+| 20–29 | In your twenties  |
+| 30–39 | In your thirties  |
+| 40–49 | In your forties   |
+| 50–59 | In your fifties   |
+| 60–69 | In your sixties   |
 
 # Oração
 
