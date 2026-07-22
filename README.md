@@ -311,40 +311,11 @@ Funções sintáticas:
 # Artigo 
 O **artigo** é outra classe de palavras, diferente de pronome, substantivo e verbo.
 
-## O que é um artigo?
-
 O **artigo** é a palavra que acompanha um substantivo para indicar se ele é definido ou indefinido.
 
-### Em português
+Existem apenas **três artigos** (the, a , an).
 
-Artigos definidos:
-
-* o
-* a
-* os
-* as
-
-Artigos indefinidos:
-
-* um
-* uma
-* uns
-* umas
-
-Exemplos:
-
-* **O** carro.
-* **A** casa.
-* **Um** livro.
-* **Uma** cadeira.
-
----
-
-## Em inglês
-
-Existem apenas **três artigos**.
-
-### Artigo definido
+## Artigo definido
 
 | Artigo  | Significado  |
 | ------- | ------------ |
@@ -358,7 +329,7 @@ Exemplos:
 
 ---
 
-### Artigos indefinidos
+## Artigos indefinidos
 
 | Artigo | Significado |
 | ------ | ----------- |
@@ -367,18 +338,40 @@ Exemplos:
 
 A diferença entre **a** e **an** não é de significado, mas de **pronúncia**.
 
-**A** → antes de som de consoante.
+### **A** → antes de som de consoante.
+são usados **apenas com substantivos contáveis no singular**
 
 * a car
 * a book
 * a university (som de "yu")
+* A wallet (o som do U sempre vai ser considerado uma consoante)
 
-**An** → antes de som de vogal.
+### **An** → antes de som de vogal.
 
 * an apple
 * an orange
 * an engineer
 * an hour (o "h" é mudo)
+
+### Some
+Quando queremos dizer **alguns**, **umas**, ou simplesmente indicar uma quantidade não especificada, usamos **some**.
+
+* some books
+* some apples
+* some students
+
+#### Atenção aos substantivos incontáveis
+
+Também é usado com substantivos que não podem ser contados:
+
+* some water
+* some milk
+* some information
+* some money
+* some coffee
+
+**não usam** **a** ou **an**, porque não podem ser contadas individualmente nesse contexto.
+**Observação:** Some é um determinante (determiner) e será detalhado mais a frente.
 
 ---
 
@@ -600,7 +593,7 @@ Eles substituem um substantivo e podem aparecer em diferentes posições.
 
 * **Mine** is blue.
 * **Yours** looks better than mine.
-* His is the largest.
+* **His** is the largest.
 
 ---
 
@@ -650,6 +643,16 @@ Exemplos:
 
 ## 5. Pronomes demonstrativos (Demonstrative Pronouns)
 
+Os **pronomes demonstrativos (Demonstrative Pronouns)** são usados para **apontar** pessoas, objetos, lugares ou ideias. Eles indicam se algo está **perto** ou **longe** e se é **singular** ou **plural**.
+
+No inglês, existem apenas **quatro**:
+
+| Singular | Plural    | Distância |
+| -------- | --------- | --------- |
+| **This** | **These** | Perto     |
+| **That** | **Those** | Longe     |
+
+
 | Inglês | Português                   |
 | ------ | --------------------------- |
 | This   | Este/Esta                   |
@@ -660,11 +663,89 @@ Exemplos:
 Exemplos:
 
 * **This** is my phone.
-* **Those** are my books.
+* **This** book is interesting.
+
+* **That** is my car.
+* **That** house is beautiful.
+
+* **These** are my friends.
+* **These** books are new.
+
+* **Those** are my shoes.
+* **Those** students are very smart.
+
+###  Quando são pronomes
+
+Eles **substituem** o substantivo.
+
+* **This** is my computer.
+* **Those** are expensive.
+
+Não aparece o nome do objeto depois de **this** ou **those**, porque ele já está implícito.
+
+### Quando são adjetivos demonstrativos
+
+Eles **acompanham** um substantivo.
+
+* **This computer** is fast.
+* **That car** is red.
+* **These books** are interesting.
+* **Those students** are tired.
+
+Estrutura:
+
+```text
+This + substantivo
+That + substantivo
+These + substantivo
+Those + substantivo
+```
+
+---
+
+### Comparação
+
+| Pronome              | Adjetivo                   |
+| -------------------- | -------------------------- |
+| This is my car.      | This car is mine.          |
+| Those are expensive. | Those shoes are expensive. |
+| That is beautiful.   | That house is beautiful.   |
+
+---
+
+### No inglês, eles também são usados para falar de tempo
+
+#### Tempo presente ou próximo
+
+* **this morning**
+* **this week**
+* **this month**
+* **this year**
+
+Exemplos:
+
+* I studied a lot **this week**.
+* I'm busy **this morning**.
+
+---
+
+#### Tempo passado ou mais distante
+
+* **that day**
+* **that night**
+* **that year**
+
+Exemplos:
+
+* I remember **that day**.
+* We met **that year**.
+
 
 ---
 
 ## 6. Pronomes interrogativos (Interrogative Pronouns)
+São usados para **fazer perguntas**.
+Esses pronomes são conhecidos como **WH-Questions**, porque a maioria começa com **WH**.
 
 | Inglês | Português     |
 | ------ | ------------- |
@@ -674,11 +755,205 @@ Exemplos:
 | Which  | Qual          |
 | What   | O que / Qual  |
 
-Exemplos:
+### Estrutura das perguntas
 
-* **Who** is she?
-* **What** is your name?
-* **Which** one do you prefer?
+Na maioria das perguntas, a ordem é:
+
+```text
+WH + verbo auxiliar + sujeito + verbo principal
+```
+
+* What do you want?
+* Where do you live?
+* When did you arrive?
+* Why are you here?
+
+#### Perguntas sem auxiliar
+
+Quando o pronome é o sujeito da frase, normalmente **não há auxiliar**.
+
+* Who called you? (Quem ligou para você?)
+* Who broke the window? (Quem quebrou a janela?)
+* Who wants coffee? (Quem quer café?)
+
+### 1. What (o que? / qual?)
+
+É usado para perguntar Pergunta aberta. Para perguntar sobre **coisas**, **ações**, **informações**, **profissões**, etc.
+
+> What is your favorite movie? (Pode ser qualquer filme.)
+
+* **What is your name?**
+* **What do you do?**
+* **What happened?**
+* **What is this?**
+
+#### Quando usar "What"
+
+Use quando **não há um conjunto limitado de opções**.
+
+Imagine que alguém pergunta:
+
+> O que você quer comer?
+
+As possibilidades são infinitas.
+
+* Pizza
+* Hambúrguer
+* Lasanha
+* Salada
+
+Por isso usamos:
+
+> **What** do you want to eat?
+
+
+### 2. Which (qual?)
+
+**Which** significa "qual", mas é usado quando existe um **número limitado de opções**.
+
+Imagine duas camisas.
+
+👕 Azul
+
+👕 Vermelha
+
+Pergunta:
+
+> **Which** shirt do you want? (Há apenas duas opções.)
+
+Escolha entre opções conhecidas:
+
+> Which movie do you want to watch? (Os filmes já estão disponíveis.)
+
+Mais exemplos:
+
+* Which color do you prefer?
+* Which book is yours?
+
+### 3. Who (quem?)
+
+Usado para perguntar sobre pessoas.
+Quem realizou a ação???
+
+* Who called you? (Quem ligou para você?)
+* Who invited Marcos? (Quem convidou o Marcos?)
+* Who loves Mary? (Quem ama Mary?)
+* Who chose you? (Quem escolheu você?)
+
+
+### 4. Whom (quem?)
+
+Também significa "quem", mas é usado quando a pessoa **recebe a ação**.
+Quem recebeu a ação???
+
+* Whom called you? (Para quem você ligou?)
+* Whom did Marcos invite? (Quem o Marcos convidou?)
+* Whom does Mary love? (Quem Mary ama?)
+* Whom did you choose? (Quem você escolheu?)
+* Whom should I contact? (Com quem devo entrar em contato?)
+* Whom are you waiting for? (Por quem você está esperando?)
+
+#### Após preposições
+
+Sempre que houver uma preposição antes do pronome, o inglês formal prefere **whom**.
+
+| Formal     | Informal      |
+| ---------- | ------------- |
+| To whom    | Who ... to    |
+| For whom   | Who ... for   |
+| With whom  | Who ... with  |
+| About whom | Who ... about |
+
+#### Como saber se é WHO ou WHOM?
+
+Existe um truque muito usado por falantes nativos.
+
+Substitua mentalmente por **he** ou **him**.
+
+Se a resposta for **he**, use **who**.
+
+Se a resposta for **him**, use **whom**.
+
+##### Exemplo
+
+Who called?
+
+Resposta:
+
+**He** called.
+
+Então:
+
+✔ Who
+
+---
+
+Whom did you see?
+
+Resposta:
+
+I saw **him**.
+
+Então:
+
+✔ Whom
+
+---
+Perceba o padrão:
+
+| Who  | Whom |
+| ---- | ---- |
+| He   | Him  |
+| She  | Her  |
+| They | Them |
+
+
+* **Who** corresponde aos pronomes de sujeito (**he, she, they**).
+* **Whom** corresponde aos pronomes de objeto (**him, her, them**).
+
+#### Na prática...
+
+Hoje em dia, principalmente na fala, quase todo mundo usa **who**.
+
+É muito comum ouvir:
+
+Who did you call?
+
+Mesmo que a gramática tradicional diga que seria **whom**.
+
+Por isso, para quem está aprendendo inglês, basta saber:
+
+* **Who** → usado praticamente sempre na conversação.
+* **Whom** → mais formal e comum em textos, documentos ou linguagem muito cuidadosa.
+
+---
+
+### 5. Whose (de quem?)
+
+Pergunta sobre posse.
+
+* Whose phone is this? (De quem é este celular?)
+* Whose car is outside? (De quem é o carro lá fora?)
+* Whose backpack is this? (De quem é esta mochila?)
+
+### Outros WH Words importantes
+
+Embora nem todos sejam pronomes, eles aparecem juntos porque também iniciam perguntas.
+
+| Palavra | Classe   | Significado  |
+| ------- | -------- | ------------ |
+| What    | Pronome  | O que / Qual |
+| Which   | Pronome  | Qual         |
+| Who     | Pronome  | Quem         |
+| Whom    | Pronome  | Quem         |
+| Whose   | Pronome  | De quem      |
+| Where   | Advérbio | Onde         |
+| When    | Advérbio | Quando       |
+| Why     | Advérbio | Por que      |
+| How     | Advérbio | Como         |
+
+Perceba que **where, when, why e how** **não são pronomes**, mas sim **advérbios interrogativos**, porque perguntam sobre lugar, tempo, motivo e modo.
+
 
 ---
 
@@ -821,3 +1096,36 @@ Ou:
 ### Dica importante
 
 Hoje em dia, **Ms.** é o tratamento mais usado em contextos profissionais quando você não sabe ou não quer presumir o estado civil de uma mulher. Já **Miss** é mais comum para meninas ou jovens, e **Mrs.** costuma ser usado quando a própria mulher prefere esse tratamento.
+
+---
+
+# Quantificadores
+Dentro dos determinantes, existe um grupo chamado **quantificadores (quantifiers)**.
+
+Eles indicam quantidade.
+
+Os principais são:
+
+| Palavra | Significado                             |
+| ------- | --------------------------------------- |
+| some    | alguns                                  |
+| any     | algum / nenhum (dependendo do contexto) |
+| many    | muitos                                  |
+| much    | muito                                   |
+| few     | poucos                                  |
+| little  | pouco                                   |
+| several | vários                                  |
+| enough  | suficiente                              |
+| all     | todos                                   |
+| most    | a maioria                               |
+| no      | nenhum                                  |
+
+Exemplos:
+
+* many books
+* much water
+* few students
+* little money
+* enough food
+
+---
