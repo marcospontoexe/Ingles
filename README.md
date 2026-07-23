@@ -768,13 +768,32 @@ WH + verbo auxiliar + sujeito + verbo principal
 * When did you arrive?
 * Why are you here?
 
-#### Perguntas sem auxiliar
+### Perguntas sem auxiliar
 
 Quando o pronome é o sujeito da frase, normalmente **não há auxiliar**.
 
 * Who called you? (Quem ligou para você?)
 * Who broke the window? (Quem quebrou a janela?)
 * Who wants coffee? (Quem quer café?)
+
+
+#### Comparação
+
+| Pergunta                 | Sujeito    | Auxiliar? |
+| ------------------------ | ---------- | --------- |
+| Who called?              | Who        | ❌ Não     |
+| Who did you call?        | You        | ✅ Sim     |
+| What happened?           | What       | ❌ Não     |
+| What did you buy?        | You        | ✅ Sim     |
+| Which book fell?         | Which book | ❌ Não     |
+| Which book did you read? | You        | ✅ Sim     |
+
+| Palavra interrogativa | Pode aparecer sem auxiliar?        |
+| --------------------- | ---------------------------------- |
+| **Who**               | ✅ Sim                              |
+| **What**              | ✅ Sim                              |
+| **Which**             | ✅ Sim (quando acompanha o sujeito) |
+
 
 ### 1. What (o que? / qual?)
 
@@ -936,8 +955,8 @@ Pergunta sobre posse.
 * Whose car is outside? (De quem é o carro lá fora?)
 * Whose backpack is this? (De quem é esta mochila?)
 
-### Outros WH Words importantes
-
+## **advérbios interrogativos (Interrogative Adverbs)**
+Outros WH Words importantes.
 Embora nem todos sejam pronomes, eles aparecem juntos porque também iniciam perguntas.
 
 | Palavra | Classe   | Significado  |
@@ -952,7 +971,83 @@ Embora nem todos sejam pronomes, eles aparecem juntos porque também iniciam per
 | Why     | Advérbio | Por que      |
 | How     | Advérbio | Como         |
 
-Perceba que **where, when, why e how** **não são pronomes**, mas sim **advérbios interrogativos**, porque perguntam sobre lugar, tempo, motivo e modo.
+Perceba que **where, when, why e how** **não são pronomes**, mas sim **advérbios interrogativos**, porque perguntam sobre:
+
+* 📍 Lugar
+* ⏰ Tempo
+* ❓ Motivo
+* ⚙️ Modo
+
+### 1. Where (Onde)
+
+Pergunta sobre **lugar**.
+
+* Where do you live? (Onde você mora?)
+* Where is my phone? (Onde está meu celular?)
+* Where are they? (Onde eles estão?)
+* Where did you buy this? (Onde você comprou isto?)
+
+### 2. When (Quando)
+
+Pergunta sobre **tempo**.
+
+* When is your birthday? (Quando é seu aniversário?)
+* When did you arrive? (Quando você chegou?)
+* When will you travel? (Quando você vai viajar?)
+* When do you study English? (Quando você estuda inglês?)
+
+### 3. Why (Por quê)
+
+Pergunta sobre o **motivo**.
+
+* Why are you late? (Por que você está atrasado?)
+* Why did she leave? (Por que ela foi embora?)
+* Why do you study English? (Por que você estuda inglês?)
+* Why is he crying? (Por que ele está chorando?)
+
+### 4. How (Como)
+
+Pergunta sobre o **modo**, isto é, de que maneira algo acontece.
+
+* How are you? (Como você está?)
+* How do you go to work? (Como você vai ao trabalho?)
+* How does this work? (Como isto funciona?)
+* How did you learn English? (Como você aprendeu inglês?)
+
+#### How + outras palavras
+
+**How** pode ser combinado com adjetivos e advérbios para fazer perguntas mais específicas.
+
+Essas combinações são muito usadas.
+
+| Expressão | Significado         |
+| --------- | ------------------- |
+| How old   | Quantos anos        |
+| How much  | Quanto (incontável) |
+| How many  | Quantos (contável)  |
+| How long  | Quanto tempo        |
+| How far   | Quão longe          |
+| How often | Com que frequência  |
+| How fast  | Quão rápido         |
+| How tall  | Qual a altura       |
+| How big   | Qual o tamanho      |
+| How high  | Qual a altura       |
+| How heavy | Quanto pesa         |
+
+---
+
+#### Comparando
+
+| Palavra | Pergunta sobre |
+| ------- | -------------- |
+| Who     | Pessoa         |
+| Whose   | Posse          |
+| What    | Informação     |
+| Which   | Escolha        |
+| Where   | Lugar          |
+| When    | Tempo          |
+| Why     | Motivo         |
+| How     | Modo           |
 
 
 ---
